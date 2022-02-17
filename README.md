@@ -1,2 +1,0 @@
-# MakivBot
-Bot
